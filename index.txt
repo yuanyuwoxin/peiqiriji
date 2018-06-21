@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 who are you!
 where are you!!!
+=======
+who are you
+>>>>>>> parent of f58cfa5... 新创建了index.txt
